@@ -1,4 +1,5 @@
-run = "python code/test.py"
+# "python code/simulation/.py"
+run = "python code/simulation/좌석번호.py"
 
 [nix]
 channel = "stable-22_11"
