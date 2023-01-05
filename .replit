@@ -1,5 +1,5 @@
 # "python code/simulation/.py"
-run = "python code/hashing/회장선거.py"
+run = "python code/simulation/비밀번호.py"
 
 [nix]
 channel = "stable-22_11"
