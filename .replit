@@ -1,5 +1,5 @@
 # "python code/simulation/.py"
-run = "python code/sort/랜선자르기.py"
+run = "python code/efficiency/보안실.py"
 
 [nix]
 channel = "stable-22_11"
