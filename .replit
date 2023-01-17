@@ -1,5 +1,5 @@
 # "python code/simulation/.py"
-run = "python code/DFS/스도쿠.py"
+run = "python code/BFS/집을짓자.py"
 
 [nix]
 channel = "stable-22_11"
